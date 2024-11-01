@@ -1,2 +1,2 @@
 # html
-Academy test project
+Test project
